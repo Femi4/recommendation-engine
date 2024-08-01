@@ -1,0 +1,3 @@
+[submodule "music-recommendation"]
+	path = music-recommendation
+	url = https://github.com/Femi4/recommendation-engine
